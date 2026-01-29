@@ -11,6 +11,7 @@
 - [DoorOS](https://github.com/DoorOS-Project/DoorOS): replace Microslop Bloatdows with an open-source alt (paused; late early dev stage)
 - [LSW](https://github.com/lsw-project/lsw-project): WSL but inverted, with headless Windows on Linux (paused; early dev stage)
 - [GitWhisper](https://github.com/foxyAI-Corp/gitwhisper): chat with Gemini with context about your Git repo (WinUI rewrite pending)
+- [RFSDevBot](https://github.com/ReallyFullStack/RFSDevBot): good Discord bot
 
 ## orgs
 
