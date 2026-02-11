@@ -1,6 +1,6 @@
 ## good projs
 
-- [MathScript](https://github.com/MathScript-Lang/MathScript): my own programming language lol (restarted; FINALLY STARTING THE INTERPRETER/COMPILER PART TOMORROW)
+- [MathScript](https://github.com/MathScript-Lang/MathScript): my own programming language lol (restarted; I'm doing it, I'm doing it, I'm doing the interpreter)
 - [NBTExplorer Renew](https://github.com/foxypiratecove37350/NBTExplorerRenew): rewrite of NBTExplorer with WinUI (paused; half-finished UI dev stage)
 - [shell](https://github.com/foxypiratecove37350/shell): a shell in C (paused; finished but to be updated)
 - [Black & White](https://github.com/foxypiratecove37350/black-and-white): Python code formatter (paused; early dev stage)
