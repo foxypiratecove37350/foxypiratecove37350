@@ -1,0 +1,20 @@
+L: bl = 1 m          (block)          [length of the edge of a Block of Gold]
+T: t = 1/20 s        (tick)           [1/10 of the smelting time of Raw Gold into Gold Ingot in a furnace]
+M: gd = 19 380 kg    (golder)         [mass of 1 block of gold]
+Θ: f = ... K         (furn)           [temperature of a furnace while smelting Raw Gold into Gold Ingot in 10 t]
+Q: rl = ... C        (redstone level) [1/15 of the redstone level produced by a Block of Redstone]
+N: px = N_A/4096 mol (pixel)          [number of pixels in a Block of Gold]
+J: ll = ... cd       (light level)    [1/15 of the light emitted by a torch]
+
+Force:            Si = gd * bl/t^2             (simibubi)
+Energy:           Je = Si * bl = gd * bl^2/t^2 (jeb)
+Power:            ᗡ (upside down D) = Je/t     (dinerbone)
+Current:          rl/t
+Pressure:         No = Si/bl^2 = gd/(bl * t^2) (notch)
+Random frequency: rt = t^-1                    (random tick)
+Voltage:          Pt = Je/rl = ᗡ/(rl/t)        (patryk)
+Resistance:       Mb = Pt/(rl/t)               (mumbojumbo)
+Conductance:      Sz = Mb^-1                   (shalz)
+Absorbed dose:    Fo = Je/gd                   (foxy)
+Equivalent dose:  RFS = Fo * W_R [* W_T]       (RFS)
+Exposure:         rl/gd
