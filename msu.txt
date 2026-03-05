@@ -6,7 +6,7 @@ M: gd = 19 320 kg    (golder)         [mass of 1 block of gold]
 Θ: f = ... K         (furn)           [temperature of a furnace while smelting Raw Gold into Gold Ingot in 200 t]
 Q: rl = ... C        (redstone level) [1/15 of the redstone level produced by a Block of Redstone]
 N: px = N_A/4096 mol (pixel)          [number of pixels in a Block of Gold]
-J: ll = ... cd       (light level)    [1/15 of the light emitted by a torch]
+J: ll = ... cd       (light level)    [1/15 of the light emitted by a Glowstone block]
 
 Force:            Si = gd * bl/t^2             (simibubi)
 Energy:           Je = Si * bl = gd * bl^2/t^2 (jeb)
