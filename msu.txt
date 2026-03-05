@@ -1,5 +1,7 @@
+Minecraft System of Units (MSU)
+
 L: bl = 1 m          (block)          [length of the edge of a Block of Gold]
-T: t = 1/20 s        (tick)           [1/10 of the smelting time of Raw Gold into Gold Ingot in a furnace]
+T: t = 1/20 s        (tick)           [1/200 of the smelting time of Raw Gold into Gold Ingot in a furnace]
 M: gd = 19 380 kg    (golder)         [mass of 1 block of gold]
 Θ: f = ... K         (furn)           [temperature of a furnace while smelting Raw Gold into Gold Ingot in 10 t]
 Q: rl = ... C        (redstone level) [1/15 of the redstone level produced by a Block of Redstone]
