@@ -1,3 +1,8 @@
+## stats
+
+|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=foxypiratecove37350&title_color=f08080&text_color=ddcccc&bg_color=200000&hide_border=true&include_all_commits=true&show_icons=true&icon_color=ddcccc)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=foxypiratecove37350&title_color=f08080&text_color=ddcccc&bg_color=200000&hide_border=true&langs_count=5)|
+|-|-|
+
 ## good projs
 
 - [Nucleus](https://github.com/ReallyFullStack/Nucleus): Minecraft mod for nuclear energy and radiations. αβγn
@@ -25,7 +30,6 @@
 - [lsw-project](https://github.com/lsw-project)
 - [MathScript-Lang](https://github.com/MathScript-Lang)
 
-## stats
+## other account(s)
 
-|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=foxypiratecove37350&title_color=f08080&text_color=ddcccc&bg_color=200000&hide_border=true&include_all_commits=true&show_icons=true&icon_color=ddcccc)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=foxypiratecove37350&title_color=f08080&text_color=ddcccc&bg_color=200000&hide_border=true&langs_count=5)|
-|-|-|
+- [RFSDev](https://github.com/ReallyFullStack)
