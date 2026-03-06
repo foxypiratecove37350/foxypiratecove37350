@@ -1,6 +1,6 @@
 ## stats
 
-|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=foxypiratecove37350&title_color=f08080&text_color=ddcccc&bg_color=200000&hide_border=true&include_all_commits=true&show_icons=true&icon_color=ddcccc)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=foxypiratecove37350&title_color=f08080&text_color=ddcccc&bg_color=200000&hide_border=true&langs_count=5)|
+|![GitHub Stats](./profile/stats.svg)|![Top Languages](./profile/top-langs.svg)|
 |-|-|
 
 ## good projs
