@@ -5,6 +5,7 @@
 
 ## good projs
 
+- [*Create: Power Grid* Wiki](https://createpowergrid.miraheze.org/wiki/Main_Page): technically not its place here but, community wiki of [*Create: Power Grid*](https://github.com/patryk3211/PowerGrid), I started it, the community (with me) is building it
 - [Nucleus](https://github.com/ReallyFullStack/Nucleus): Minecraft mod for nuclear energy and radiations. αβγn
 - [MathScript](https://github.com/MathScript-Lang/MathScript): my own programming language lol (restarted; I'm doing it, I'm doing it, I'm doing the interpreter)
 - [NBTExplorer Renew](https://github.com/foxypiratecove37350/NBTExplorerRenew): rewrite of NBTExplorer with WinUI (paused; half-finished UI dev stage)
