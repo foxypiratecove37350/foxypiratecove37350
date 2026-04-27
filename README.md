@@ -25,7 +25,7 @@
 - [Alloy-Hardware](https://github.com/Alloy-Hardware)
 - [DeskLink-Remote-Desktop](https://github.com/DeskLink-Remote-Desktop)
 - [DoorOS-Project](https://github.com/DoorOS-Project)
-- [foxyAI-Corp](https://github.com/foxyAI-Corp)
+- [foxyAI-Org](https://github.com/foxyAI-Org)
 - [GreaterDiscord](https://github.com/GreaterDiscord)
 - [Ignitem](https://github.com/Ignitem)
 - [lsw-project](https://github.com/lsw-project)
